@@ -1,4 +1,4 @@
-# MyMedecine
+# MyMedicine
 Интернет магазин медицинских товаров
 
 Ссылка на таск трекер : https://tracker.yandex.ru/agile/board/1
